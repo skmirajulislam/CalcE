@@ -18,3 +18,4 @@ Calculator Application is a simple scientific calculator built using Python's tk
    git clone https://github.com/skmirajulislam/Calculator-Application.git
 ```
 
+<img src="https://github.com/skmirajulislam/Calculator-Application/raw/master/img.png" alt="Calculator Interface" style="width: 50%;">
